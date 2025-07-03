@@ -86,7 +86,7 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://telegra.ph/file/c316aa782ab03f45ba9c2.jpg")
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/i7r81l.jpg")
 PING_IMG_URL = os.getenv("PING_IMG_URL", "https://telegra.ph/file/2879947fdf1397639a867.jpg")
 PLAYLIST_IMG_URL = "https://telegra.ph/file/64dacee61bdf2365497ef.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/b9232c883087a73444b07.jpg"
