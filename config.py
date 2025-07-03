@@ -1,5 +1,5 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#     ⚙️ CONFIGURATION FILE | Powered By @MrPerfectXd& @TomXJerry_Bot 
+#     ⚙️ CONFIGURATION FILE | Powered By @MrPerfectXd  & @TomXJerry_Bot 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 import os
